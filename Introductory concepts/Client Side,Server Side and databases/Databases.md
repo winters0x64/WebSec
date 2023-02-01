@@ -11,3 +11,5 @@ MySQL,SQLite,PostgreSQL, etc are examples for SQL databases
 MongoDB is an example NoSQL database
 
 Let us understand how the database comunicates with the web server to process and send the data or information to the client:
+
+![3_layer](https://github.com/winters0x64/WebSec/blob/main/Imgs/databases.jpeg)
