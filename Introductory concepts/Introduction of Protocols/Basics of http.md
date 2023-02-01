@@ -1,0 +1,3 @@
+# Basics of http
+
+HTTP is a protocol used to transfer messages like HTML documents and images. It is the basic block for any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the receiver, usually the Web browser. Upon receiving the data, the browser recreates the entire document again from the resources it received, like - text, image, layouts, scripts, CSS.
