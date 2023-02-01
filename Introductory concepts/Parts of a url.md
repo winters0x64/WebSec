@@ -4,3 +4,4 @@ URL stands for uniform resource locator -> It is the fundamental network identif
 
 Here's an example of a url
 
+[example_of_a_url](https://github.com/winters0x64/WebSec/blob/main/Imgs/url.png)
