@@ -7,7 +7,7 @@ Given below are a few request methods along with short descriptions of what they
 GET  - Request to get information  from a source.
 POST - Append information to a source.
 HEAD - Get the header of a response initiated through a request.
-PUT  - Append information to a source if the  information doesn't already exists it creates one or replaces the existing one.
+PUT  - Append information to a source if the  information doesn't already exists it creates one or replaces the existing one,It sends the entire file as opposed to sending a specific data which is done by a post request.
 DELETE - Delete an existing resource from a source.
 TRACE - The web server will respond to requests that use the TRACE method by echoing in its response the exact request that was received.
 CONNECT - It is used to establish a  TCP/IP tunnel connection.
