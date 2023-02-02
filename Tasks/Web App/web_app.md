@@ -4,5 +4,5 @@
   - Use PHP Session and Cookie (For authentication, authorization, etc.)
   - Should have a file upload option
   - Should have admin user with admin panel
-  - A booking system webapp should be implemented.
+  - A ticket booking system webapp should be implemented.
   - Use the LAMP stack.
