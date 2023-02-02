@@ -1,0 +1,13 @@
+body{
+    background-color: navy;
+}
+
+#welcome_msg{
+    text-align: center;
+    color: white;
+}
+
+#user_auth{
+    text-align: center;
+    color: white;
+}
