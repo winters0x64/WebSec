@@ -5,3 +5,5 @@
 5) Started making the authentication system
 6) Learned basics of php
 7) Learned the basics of Apache web server
+8) Connected the webapp with mysql and php backend(had to install mysqli extension)
+9) Made admin user and the authorization for it.
