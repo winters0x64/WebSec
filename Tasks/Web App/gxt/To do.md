@@ -7,4 +7,5 @@ x 6) Implement sessions and cookies for authentication
 x 7) Ticket booking procedure
 x 8) File upload feature
 X 9) Setup cookies
-10) The admin portal
+x 10) The admin portal
+11) Optimize

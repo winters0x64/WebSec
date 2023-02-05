@@ -12,3 +12,5 @@ If only the username is correct and the password is not then the user is prompte
 11) Implemented sessions 
 12) Implemented ticket booking procedure
 13) Implemented cookies to calculate the time spent by the user from logging in to completing the ticket booking process.
+14) Finished the admin panel with features such as deleting a user and changing the password of a user
+15) Finsihed the project
