@@ -23,3 +23,8 @@ For example, i:0;i:1 represents an element of the array with an index of 0 and a
 
 In this example, the string s:4:"four" represents an element with a string value of "four". The s:4 part of the string indicates that the value is a string and the 4 is the length of the string.
 
+Another example is as follows
+
+logged_in|b:1;username|s:5:"admin"; -> This is the session data for a client stored in /var/lib/php/sessions here logged_in is the  key name and b represents a boolean value having a value of 1 ie True
+
+We can convert serialized data back to the original datastructure using the unserialize() function.
