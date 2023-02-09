@@ -373,6 +373,8 @@ In this example, the outer query selects all columns from the "Orders" table, an
 also select * from table_name where false; -> Wont return anything
     select * from table_name where false; -> Will return the entire table
 
+# DCL and TCL queries
+
 GRANT
 GRANT gives a particular user access to database objects such as tables, views or the database itself. The below example would give SELECT and UPDATE access on the customers table to a user named “usr_bob”.
 
