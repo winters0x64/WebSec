@@ -1,4 +1,11 @@
-# file_put_content
+# file_put_contents
+
+file_put_contents(
+    string $filename,
+    mixed $data,
+    int $flags = 0,
+    ?resource $context = null
+): int|false
 
 file_put_contents —> Write data to a file
 
