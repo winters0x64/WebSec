@@ -6,6 +6,8 @@ X -> Learn more about PHP file functions and Checking if an uploaded file is in 
 X -> Learn about the CSRF token and CSRF attack.
 X -> Learn some php functions.
 X -> Learn about PHP wrappers.
--> Complete the google xss game and understand what's going behind the scenes
+X -> Complete the google xss game and understand what's going behind the scenes.
+-> Setup NerdTree in nvim
+-> Start sqli labs.
 -> Learn Docker.
 
