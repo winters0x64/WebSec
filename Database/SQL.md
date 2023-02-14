@@ -431,3 +431,10 @@ Conditions:
 1) Every SELECT statement within UNION must have the same number of columns
 2) The columns must also have similar data types
 3) The columns in every SELECT statement must also be in the same order
+
+# The LIMIT Clause
+
+The LIMIT clause is used to specify the number of records to return.
+
+SELECT * FROM Customers
+LIMIT 3;
