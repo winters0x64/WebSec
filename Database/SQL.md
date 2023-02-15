@@ -439,6 +439,29 @@ The LIMIT clause is used to specify the number of records to return.
 SELECT * FROM Customers
 LIMIT 3;
 
+LIMIT 1,1 specifies that we'll be starting from the row 2, and we're selecting 1 row which would be the second row itself,we'll get the output of the second row.
+
 # The DESC Clause
 
 This clause is used to describe the structure of a table.
+
+# The GROUP_CONCAT() Clause
+
+Can be used to concatenate data from multiple rows into one field
+
+select user_name from sqli_users;
++-----------+
+| user_name |
++-----------+
+| arun      |
+| varun     |
++-----------+
+
+now,
+
+select GROUP_CONCAT(user_name) from sqli_users;
++-------------------------+
+| GROUP_CONCAT(user_name) |
++-------------------------+
+| arun,varun              |
++-------------------------+
