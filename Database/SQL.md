@@ -438,3 +438,7 @@ The LIMIT clause is used to specify the number of records to return.
 
 SELECT * FROM Customers
 LIMIT 3;
+
+# The DESC Clause
+
+This clause is used to describe the structure of a table.
