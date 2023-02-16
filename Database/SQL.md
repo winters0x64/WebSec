@@ -237,6 +237,9 @@ MAX returns the maximum value of a numeric column.
 SELECT MAX(age)
 FROM customers;
 
+rand() -> Generates a random value between 0 and 1
+floor() -> floors a given value
+
 
 # The Group By statement
 
@@ -465,3 +468,15 @@ select GROUP_CONCAT(user_name) from sqli_users;
 +-------------------------+
 | arun,varun              |
 +-------------------------+
+
+
+# The AS statement 
+
+nickname a particular clause
+
+select floor(rand()*2) as lol; -> The output cloumn would have a name lol.
+
+# The concat clause
+
+SELECT CONCAT('SQL', ' is', ' fun!'); would return SQL is fun.
+
