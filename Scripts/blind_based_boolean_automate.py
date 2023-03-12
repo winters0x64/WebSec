@@ -1,3 +1,5 @@
+# This script automates the enumeration of database name from lab 8 in sqli labs
+
 import requests
 from bs4 import BeautifulSoup as bs
 

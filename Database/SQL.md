@@ -480,3 +480,14 @@ select floor(rand()*2) as lol; -> The output cloumn would have a name lol.
 
 SELECT CONCAT('SQL', ' is', ' fun!'); would return SQL is fun.
 
+# General commands
+
+select substr(data,start,end) ->  Substring functionality
+select ascii(char) -> Ascii value of a character
+select sleep(10) -> Database sleep for 10 seconds
+
+# Conditionals
+
+select if(condition,execute_if_true,execute_if_false)
+
+
