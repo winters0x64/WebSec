@@ -7,7 +7,8 @@ X -> Learn about the CSRF token and CSRF attack.
 X -> Learn some php functions.
 X -> Learn about PHP wrappers.
 X -> Complete the google xss game and understand what's going behind the scenes.
--> Setup NerdTree in nvim
--> Start sqli labs.
--> Learn Docker.
+X -> Start sqli labs.
+X -> Learn Docker.
+-> Blind sql
+
 
