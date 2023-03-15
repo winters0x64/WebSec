@@ -110,10 +110,10 @@ def main():
 		total_dump(i)
 
 	
-	print("Database name is:" ,"".join(db_name_arr))
-	print("Table name is: ","".join(table_name_arr))
-	print("Column name: ","".join(column_name_arr))
-	print("Dump data: ","".join(dump_data))
+	print("Database name  :" ,"".join(db_name_arr))
+	print("Table name     : ","".join(table_name_arr))
+	print("Column name    : ","".join(column_name_arr))
+	print("Dump data      : ","".join(dump_data))
 	
 	
 

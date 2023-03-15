@@ -10,8 +10,9 @@ X -> Complete the google xss game and understand what's going behind the scenes.
 X -> Start sqli labs.
 X -> Learn Docker.
 X -> Blind sql
--> Learn about iframe
--> Learn about CSP
--> Learn about Different security measures set on a cookie
+X -> Learn about iframe
+X -> Learn about CSP
+X -> Samesite cookies
+-> Learn express
 
 
