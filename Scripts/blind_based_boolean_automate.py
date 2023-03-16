@@ -9,7 +9,7 @@ HIGH_LIMIT = 122
 db_name_arr = []
 table_name_arr  = []
 column_name_arr = []
-dump_data = []
+dump_data_arr = []
 
 # The parser
 def parse(res_html)->bool:
@@ -37,7 +37,7 @@ def db_name_func(offset):
 		if parseinit:
 			mid = mid+1
 		else:
-			mid = mid - 1
+			mid = mid-1
 		
 			
 def dump_table_func(offset):
@@ -56,7 +56,7 @@ def dump_table_func(offset):
 		if parseinit:
 			mid = mid+1
 		else:
-			mid = mid - 1
+			mid = mid-1
 			
 			
 def dump_column_func(offset):
@@ -75,7 +75,7 @@ def dump_column_func(offset):
 		if parseinit:
 			mid = mid+1
 		else:
-			mid = mid - 1
+			mid = mid-1
 			
 def total_dump(offset):
 	mid = (97+122)//2
@@ -93,7 +93,7 @@ def total_dump(offset):
 		if parseinit:
 			mid = mid+1
 		else:
-			mid = mid - 1
+			mid = mid-1
 	
 		
 def main():

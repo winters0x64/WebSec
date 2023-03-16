@@ -13,6 +13,14 @@ X -> Blind sql
 X -> Learn about iframe
 X -> Learn about CSP
 X -> Samesite cookies
+-> Complete sqli-labs
+-> Complete sqli-labs scripts 1 time-get,1 bool-post,1 time-post
+-> Complete natas upto level 20(minimum)
 -> Learn express
+-> Organize todo
+
+# Ricing
+
+Make a design in figma -> That black and light green colored theme 
 
 

@@ -26,5 +26,7 @@ Here are some commonly used docker commands
 8)docker build -t name_of_the_container .  -> Builds a container from the docker file in the same folder
 
 
-9)docker compose up -> Similar to docker build command but a docker compose file will build and run the container with mapped ports defined in the compose file. 
+9)docker compose up -> Similar to docker build command but a docker compose file will build and run the container with mapped ports defined in the compose file
 
+
+10)docker exec -it container_id bash -> This means to execute bash inside the running docker container
