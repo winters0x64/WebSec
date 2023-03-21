@@ -30,3 +30,6 @@ Here are some commonly used docker commands
 
 
 10)docker exec -it container_id bash -> This means to execute bash inside the running docker container
+
+
+11)docker image rm image_name -> This will remove  a docker image.
