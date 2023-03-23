@@ -18,5 +18,10 @@ X -> Complete sqli-labs scripts 1 time-get,1 bool-post,1 time-post
 -> Complete natas upto level 20(minimum)
 -> Learn express
 -> Organize todo
+-> Learn about SSRF
+-> Learn about CRLF
+-> Prepare HTB writeup
+-> Read some more advanced ctf writeups
+
 
 
