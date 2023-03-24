@@ -8,3 +8,5 @@ https://github.com/swisskyrepo/PayloadsAllTheThings  -> Contains payloads for a 
 
 curl bashupload.com -T file -> This will upload the specified file to bashupload.com and then we'll get a link which can be used
 download the file.
+
+https://regex101.com/ -> Can be used to understand and debug regular expressions.
