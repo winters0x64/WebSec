@@ -1,0 +1,3 @@
+# Representational State Transfer Application Programming Interface(REST API)
+
+In a RESTful architecture, resources are identified by a unique URI (Uniform Resource Identifier), and the HTTP methods (such as GET, POST, PUT, DELETE, etc.) are used to interact with those resources. The REST API is designed to be stateless, meaning that each request contains all the information needed by the server to process the request, and it does not store any session information or client context between requests.
