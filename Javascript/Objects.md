@@ -31,4 +31,4 @@ function Person(name) {
 }
 ```
 
-Now we just use ```const ar = new Person("Salva");``` to create a new object names ar, Hence constructor is the name of the class that is used to crate an object generally after the new keyword.
+Now we just use ```const ar = new Person("Arun");``` to create a new object names ar, Hence constructor is the name of the class that is used to crate an object generally after the new keyword.
