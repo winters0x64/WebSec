@@ -1,3 +1,5 @@
+From 1/02/2023 to 25/04/2023
+
 X -> Build a ticket booking web application 
 X -> Fix some stuff related to that application(Implementing a file upload check)
 X -> Learn about php serialization and de-serialization attacks.
@@ -15,13 +17,17 @@ X -> Learn about CSP
 X -> Samesite cookies
 X -> Complete sqli-labs
 X -> Complete sqli-labs scripts 1 time-get,1 bool-post,1 time-post
--> Complete natas upto level 20(minimum)
+X -> Complete natas upto level 20(minimum)
 -> Learn express
--> Organize todo
--> Learn about SSRF
--> Learn about CRLF
+X -> Organize todo
+X -> Learn about SSRF
+X -> Learn about CRLF
 -> Prepare HTB writeup
 -> Read some more advanced ctf writeups
--> Learn more about burpsuite
+X -> Learn more about burpsuite
+
+25/04/2023
+
+-> Challenges from prompt ml
 
 
