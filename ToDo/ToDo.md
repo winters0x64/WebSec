@@ -28,6 +28,19 @@ X -> Learn more about burpsuite
 
 25/04/2023
 
--> Challenges from prompt ml
+X -> Challenges from prompt ml (Completed upto 3)
+X -> Challenges from lord of sqli (Completed upto goblin)
+X -> Worked on a website.
+
+26/04/2023
+
+X -> Complete 4 challs from prompt.ml
+X -> Complete 4 challs from lord of sqli
+
+27/04/2023
+
+-> Integriti challenge
+
+
 
 
