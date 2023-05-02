@@ -1,6 +1,6 @@
 From 1/02/2023 to 25/04/2023
 
-X -> Build a ticket booking web application 
+X -> Build a ticket booking web application
 X -> Fix some stuff related to that application(Implementing a file upload check)
 X -> Learn about php serialization and de-serialization attacks.
 X -> Learn more SQL queries.
@@ -39,8 +39,22 @@ X -> Complete 4 challs from lord of sqli
 
 27/04/2023
 
--> Integriti challenge
+X -> Integriti challenge
 
 
+28/04/2023
 
+-> Forgot to update
 
+29/04/2023
+
+-> Forgot to update
+
+30/04/2023
+
+-> Forgot to update
+
+1/05/2023
+
+-> Jekyll
+-> UMD ctf wirteups
