@@ -15,4 +15,4 @@ for i in range(21):
     print(final_url)
 
 
-# ffs lord of sqli doesn't work 
+
