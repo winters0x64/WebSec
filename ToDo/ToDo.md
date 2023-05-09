@@ -58,3 +58,11 @@ X -> Integriti challenge
 
 -> Jekyll
 -> UMD ctf wirteups
+
+9/05/2023
+
+-> Learned IDOR
+-> Learned Range headers
+-> Completed prompt ml
+-> Orc from lord of sqli
+-> 
