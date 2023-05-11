@@ -10,3 +10,5 @@ curl bashupload.com -T file -> This will upload the specified file to bashupload
 download the file.
 
 https://regex101.com/ -> Can be used to understand and debug regular expressions.
+
+https://jsbin.com/?js,console -> A good way to test and debug javascript

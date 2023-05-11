@@ -65,4 +65,15 @@ X -> Integriti challenge
 -> Learned Range headers
 -> Completed prompt ml
 -> Orc from lord of sqli
--> 
+
+10/05/2023
+
+-> Finished Darkelf and Orge from lord of sqli
+-> Learned some Rust and GO
+
+11/05/2023
+
+-> Learned Object inheritance in js
+-> Learned Prototype chaining in js
+
+
