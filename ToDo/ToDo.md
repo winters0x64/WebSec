@@ -73,7 +73,12 @@ X -> Integriti challenge
 
 11/05/2023
 
--> Learned Object inheritance in js
--> Learned Prototype chaining in js
++ Learned Object inheritance in js
++ Learned Prototype chaining in js
++ Learned Structs & Enums in Rust
++ Started learning about the gin framework in go
++ Watched the solution for integriti may challenge
++ Started learning Dom Clobbering attacks
+
 
 
