@@ -80,5 +80,17 @@ X -> Integriti challenge
 + Watched the solution for integriti may challenge
 + Started learning Dom Clobbering attacks
 
+12/05/2023
+
++ Finished Troll,Vampire and Skeleton from
+lord of sqli.
+
+
+16/05/2023
+
++ Working on golem level-12 from los
++ Dom clobbering
+
+
 
 
