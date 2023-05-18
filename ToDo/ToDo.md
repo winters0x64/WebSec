@@ -91,6 +91,15 @@ lord of sqli.
 + Working on golem level-12 from los
 + Dom clobbering
 
+17/05/2023
+
++ Finished learning about DOM clobbering
++ Read about the Node-VM2 SandBox escape to RCE ,0day vulnerability
+
+18/05/2023
+
++ More about Dom clobbering
+
 
 
 

@@ -12,3 +12,5 @@ download the file.
 https://regex101.com/ -> Can be used to understand and debug regular expressions.
 
 https://jsbin.com/?js,console -> A good way to test and debug javascript
+
+https://0xgodson.com/research-writeups/dom-clobbering/ -> A good read about dom clobbering
