@@ -108,6 +108,6 @@ lord of sqli.
 
 + Went through the writeups of TjCTF23
 + Learned more about sqlmap
-
++ Learned some JWT
 
 
