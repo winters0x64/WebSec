@@ -100,6 +100,14 @@ lord of sqli.
 
 + More about Dom clobbering
 
+20-28
+
++ Lost updates coz of distro hoping
+
+29/05/2023
+
++ Went through the writeups of TjCTF23
++ Learned more about sqlmap
 
 
 
