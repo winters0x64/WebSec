@@ -110,4 +110,12 @@ lord of sqli.
 + Learned more about sqlmap
 + Learned some JWT
 
+31/05/2023
+
++ Learned about how side channel attack + XS leaks could lead to critical information disclosure.
++ 
+
+- Solve complainer and view my album.
+- Learn more about XS leaks,LOS,DOM Cobbering 
+
 

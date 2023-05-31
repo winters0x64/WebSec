@@ -14,3 +14,7 @@ https://regex101.com/ -> Can be used to understand and debug regular expressions
 https://jsbin.com/?js,console -> A good way to test and debug javascript
 
 https://0xgodson.com/research-writeups/dom-clobbering/ -> A good read about dom clobbering
+
+https://xsleaks.dev/ -> Resource used to learn XS leaks
+
+https://hackmd.io/xeizBTh5Q1ieqGq-aqR89Q?view -> List of challs to learn Xsleaks.
