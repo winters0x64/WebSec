@@ -114,8 +114,9 @@ lord of sqli.
 
 + Learned about how side channel attack + XS leaks could lead to critical information disclosure.
 + Completed Dark Knight From lord of sqli
++ Implemented Mutli threading in the boolean based sqli script for dark knight.
 
 - Solve complainer and view my album.
-- Learn more about XS leaks,LOS,DOM Cobbering 
+- Learn more about XS leaks,LOS,DOM Cobbering.
 
 

@@ -1,5 +1,6 @@
 import requests as req
 import string
+import threading
 
 url = "https://los.rubiya.kr/chall/darkknight_5cfbc71e68e09f1b039a8204d1a81456.php";
 
@@ -42,7 +43,7 @@ def get_pass():
     print(pass_arr)
 
 if __name__ == '__main__':
-    get_passlength();
+    threading.Thread(target=get_passlength).start()
     get_pass();
 
 # SQL is left to right associative
