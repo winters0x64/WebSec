@@ -1,7 +1,7 @@
-import urllib.request   # python 라이브러리에 내장된 urllib.request 를 불러온다.
+import urllib.request   
 from urllib.parse import quote
 
-result = "" # pw 값을 저장할 문자열 변수
+result = "" 
 pwlen = 0
 
 for i in range(1,10):

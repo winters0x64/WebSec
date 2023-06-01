@@ -118,5 +118,11 @@ lord of sqli.
 
 - Solve complainer and view my album.
 - Learn more about XS leaks,LOS,DOM Cobbering.
+- Learn XXE
 
+
+1/05/2023
+
++ Finished bugbear,giant and assassin
++ Finished Chall 1 from Dom Clobbering task
 

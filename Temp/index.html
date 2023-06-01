@@ -9,9 +9,6 @@
 <body>
     <h1>DOM Clobbering</h1>
 
-    <iframe name="a" srcdoc="
-    <iframe srcdoc='<a id=url name=d href=cid:Clobbered>test</a><a id=c>' name=b>">
-
-    </iframe>
+    <a  id="users"  href="https://admin:admin@domain.com"><a id="users" name="msg"  >
 </body>
 </html>
