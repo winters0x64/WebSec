@@ -121,8 +121,14 @@ lord of sqli.
 - Learn XXE
 
 
-1/05/2023
+1/06/2023
 
 + Finished bugbear,giant and assassin
 + Finished Chall 1 from Dom Clobbering task
+
+
+20/06/2023
+
++ Finished xavis,dragon
+
 
