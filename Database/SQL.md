@@ -490,4 +490,11 @@ select sleep(10) -> Database sleep for 10 seconds
 
 select if(condition,execute_if_true,execute_if_false)
 
+# CASE 
 
+SELECT CASE
+    WHEN condition1 THEN result1
+    WHEN condition2 THEN result2
+    WHEN conditionN THEN resultN
+    ELSE result
+END; 

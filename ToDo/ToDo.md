@@ -129,6 +129,5 @@ lord of sqli.
 
 20/06/2023
 
-+ Finished xavis,dragon
-
++ Finished xavis,dragon,iron_golem,dark_eyes,hellfire.
 
