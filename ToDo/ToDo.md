@@ -121,8 +121,17 @@ lord of sqli.
 - Learn XXE
 
 
-1/05/2023
+1/06/2023
 
 + Finished bugbear,giant and assassin
 + Finished Chall 1 from Dom Clobbering task
+
+
+Updates lost through broken git...
+
+
+23/06/2023
+
+-> Learned express,
+
 
