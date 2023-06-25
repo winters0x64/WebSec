@@ -1,8 +1,10 @@
 # WebSec
 
-Notes and tasks related to web security and  exploitation
+| Topics | Links | 
+| ------ | ----- |
+| Introduction | [Introduction](https://github.com/winters0x64/WebSec/tree/main/Introductory%20concepts) | 
 
 
-/*cq2J*iBa}FRca?eZ9mZMG8G4c-N[=a -> PortSwigger
+/*cq2J*iBa}FRca?eZ9mZMG8G4c-N[=a -> PortS
 
-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 - Idk_AccTok
+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 - Idk_AccTok

