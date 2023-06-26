@@ -1,0 +1,1 @@
+# This folder contains the tricks to bypass certains filters/checks in HTML, and other HTML features.

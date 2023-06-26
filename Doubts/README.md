@@ -1,0 +1,1 @@
+## This folder contains the Doubts that i encountered in the way related to Web Security.

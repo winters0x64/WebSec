@@ -1,0 +1,1 @@
+## This folder contains the javascript tricks to bypass certain checks/filters, or other interesting javascript concepts.

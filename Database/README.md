@@ -1,0 +1,1 @@
+## This folder has information about different database architectures,SQL commands, and other tricks.

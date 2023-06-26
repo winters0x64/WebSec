@@ -1,0 +1,1 @@
+## This folder contains the resources to learn about different type of server architectures and the vulnerabilities associated with them.

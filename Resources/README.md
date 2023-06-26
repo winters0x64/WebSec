@@ -1,0 +1,1 @@
+## This folder contains a list of interesting resources which i found interesting and helpful regarding Web Security.

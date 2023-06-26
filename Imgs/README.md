@@ -1,0 +1,1 @@
+## This folder contains images which can be used as a way to learn concepts visually.

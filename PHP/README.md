@@ -1,0 +1,1 @@
+## This folder contains the PHP tricks to bypass some filters/checks and other interesting PHP functions and concepts.
