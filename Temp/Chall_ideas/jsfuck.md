@@ -1,0 +1,1 @@
+Make an XSS challenge with a unique encoding scheme or tricks like js fuck, see hex2dec crewctf23
