@@ -14,7 +14,7 @@ So in lax, when website "b" makes a request to website "a" the cookies will be s
 
 3) None
 
-The cookies will send to website "a" from "b" no matter what the request type is whether it is get post or anything this was the defaul before lax.
+The cookies will send to website "a" from "b" no matter what the request type is whether it is get post or anything this was the default before lax.
 
 
 TOP LEVEL navigation changes the URL in your address bar. Resources that are loaded by iframe, img tags, and script tags do not change the URL in the address bar so none of them cause TOP LEVEL navigation.
