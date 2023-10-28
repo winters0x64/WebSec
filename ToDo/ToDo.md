@@ -127,7 +127,6 @@ lord of sqli.
 + Finished Chall 1 from Dom Clobbering task
 
 
-<<<<<<< HEAD
 Updates lost through broken git...
 
 
@@ -135,9 +134,11 @@ Updates lost through broken git...
 
 -> Learned express,
 
-=======
-20/06/2023
 
-+ Finished xavis,dragon,iron_golem,dark_eyes,hellfire.
->>>>>>> 34b7b8cef66f2444e5d43ef94c64015c0cb01c6b
+28/10/2023
+
++ Read https://www.sonarsource.com/blog/code-vulnerabilities-leak-emails-in-proton-mail/?utm_source=twitter&utm_medium=social&utm_campaign=protonmail&utm_content=security&utm_term=mofu
++ Solve päääd 
++ Learn Docker networking
+
 
