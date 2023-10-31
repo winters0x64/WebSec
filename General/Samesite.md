@@ -18,3 +18,5 @@ The cookies will send to website "a" from "b" no matter what the request type is
 
 
 TOP LEVEL navigation changes the URL in your address bar. Resources that are loaded by iframe, img tags, and script tags do not change the URL in the address bar so none of them cause TOP LEVEL navigation.
+
+Taking https://www.project.github.io:443/foo as an example, the scheme is https, the eTLD is .github.io and the eTLD+1 is project.github.io, so https://project.github.io is considered the "site" for this URL.

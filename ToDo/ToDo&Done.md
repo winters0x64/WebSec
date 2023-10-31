@@ -141,4 +141,7 @@ Updates lost through broken git...
 + Solve päääd 
 + Learn Docker networking
 
+31/10/2023
+
++ Learned about oauth and oauth vulnerability from this post https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
 
