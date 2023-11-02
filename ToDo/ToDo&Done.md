@@ -145,3 +145,21 @@ Updates lost through broken git...
 
 + Learned about oauth and oauth vulnerability from this post https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
 
+1/10/2023
+
++ Finished making JSxec manifest version 2
+
+2/10/2023
+
++ Learned about some cache headers
++ Learned and finally finished the base of
+http request smuggling 
+
+3/10/2023
+
++ Watch smashing the state machine race condition presentation.
++ Analyze pino http
++ Ideas for attendance exmption ppt
++ Websec continuation
++ Php deserialization(coz this shit is bugging me)
++ Continue testing on exness
