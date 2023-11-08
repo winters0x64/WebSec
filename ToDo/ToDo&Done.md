@@ -152,8 +152,7 @@ Updates lost through broken git...
 2/10/2023
 
 + Learned about some cache headers
-+ Learned and finally finished the base of
-http request smuggling 
++ Learned and finally finished the base of http request smuggling 
 
 3/10/2023
 
@@ -163,3 +162,11 @@ http request smuggling
 + Websec continuation
 + Php deserialization(coz this shit is bugging me)
 + Continue testing on exness
+
+8/10/2023
+
++ Finished the review ppt (Done)
++ Attempt the XS leaks challenge naruto keeper (Done)
++ Go through all of WebSec understand and make changes as needed
++ Finish that tcp1p's deserialiation challenge
++ Attempt Tinder4Cats
