@@ -1,0 +1,3 @@
+# Well known
+
+The .well-known directory is a standard directory in the root of a web server that contains files with well-known names and locations. These files are used to provide information about the web server or website to clients and other servers. For example, the robots.txt file, which is used to instruct web crawlers which pages to crawl or not crawl, is often located in the .well-known directory. Other common files found in the .well-known directory include security.txt, which provides information about security policies, and webfinger, which is used for user identification and discovery. By using the .well-known directory, web servers can provide important information to clients and other servers in a standardized and easily accessible way.

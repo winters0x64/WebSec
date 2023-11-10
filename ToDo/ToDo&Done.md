@@ -145,16 +145,16 @@ Updates lost through broken git...
 
 + Learned about oauth and oauth vulnerability from this post https://salt.security/blog/oh-auth-abusing-oauth-to-take-over-millions-of-accounts
 
-1/10/2023
+1/11/2023
 
 + Finished making JSxec manifest version 2
 
-2/10/2023
+2/11/2023
 
 + Learned about some cache headers
 + Learned and finally finished the base of http request smuggling 
 
-3/10/2023
+3/11/2023
 
 + Watch smashing the state machine race condition presentation.
 + Analyze pino http
@@ -163,10 +163,26 @@ Updates lost through broken git...
 + Php deserialization(coz this shit is bugging me)
 + Continue testing on exness
 
-8/10/2023
+8/11/2023
 
 + Finished the review ppt (Done)
 + Attempt the XS leaks challenge naruto keeper (Done)
 + Go through all of WebSec understand and make changes as needed
 + Finish that tcp1p's deserialiation challenge
 + Attempt Tinder4Cats
+
+9/11/2023
+
++ Go through the writeups of paaad and jjk2 again smh(done)
+
+10/11/2023
+
++ Study in depth about http request smuggling
++ Learn more about race conditions
++ DNS working
+
+
+11/11/2023
+
++ DNS headers.
++ Request Smuggling advanced
