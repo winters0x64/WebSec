@@ -186,3 +186,12 @@ Updates lost through broken git...
 
 + DNS headers.
 + Request Smuggling advanced
++ Learned that my code reading skills for analyzing bugs is shit(need to work on this,how? read more codes and understand them).
+
+12/11/2023
+
++ DNS headers.(Done)
++ Websec (Reversing check_function())
++ Fix hyprland streaming issue in NixOS
++ jjk2 again
++ Dev setup in NixOS with all the necessary tools for WebSec like language setups
