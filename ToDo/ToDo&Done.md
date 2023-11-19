@@ -195,3 +195,12 @@ Updates lost through broken git...
 + Fix hyprland streaming issue in NixOS
 + jjk2 again
 + Dev setup in NixOS with all the necessary tools for WebSec like language setups
+
+17/11/2023
+
++ Deeply analyze jjk_db removing all the doubts
++ jjk_db not working no more :(
+
+19/11/2023
+
++ Read about an OATH vulnerability

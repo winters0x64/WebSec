@@ -33,3 +33,15 @@ Here are some commonly used docker commands
 
 
 11)docker image rm image_name -> This will remove  a docker image.
+
+
+12)docker network ls -> Lists all running docker network instances
+
+
+13)docker network rm <id> -> Removes the specific container network
+
+
+14)docker-compose exec varnish varnishlog -> Used to run binaries within a container and show their output without actually getting inside the container
+
+
+15)
