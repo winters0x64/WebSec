@@ -204,3 +204,9 @@ Updates lost through broken git...
 19/11/2023
 
 + Read about an OATH vulnerability
+
+20/11/2023
+
++ Look more into XS leaks
++ Tinder for cats
++ Test something...
