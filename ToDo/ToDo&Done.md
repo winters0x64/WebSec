@@ -210,3 +210,13 @@ Updates lost through broken git...
 + Look more into XS leaks
 + Tinder for cats
 + Test something...
+
+21/11/2023
+
++ Look more into race conditions as a research topic (postponed it's a bit advanced)
++ Solved awesome notes 2
+
+
+22/11/2023
+
++ Web cache poisoning

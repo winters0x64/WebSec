@@ -1,1 +1,0 @@
-So when you define the express static middle ware before the route definitions what happens is express static will give the index.html inside the public/static directory this weird behaviour could be used to make a potential challenge.
