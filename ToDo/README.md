@@ -1,1 +1,0 @@
-## Just the things that i have to learn or complete, more of like a log system of mine.
