@@ -33,7 +33,7 @@ This is the main advantage of http2.
 
 ### Header Compression
 
-HTTP2 uses HPACK algorithm
+HTTP2 uses HPACK to compress header fields, it uses huffman encoding to reduce individual transfer sizes. On top of  that HPACK also uses a static and dynamic table to reduce the size of headers. ie Binary framing layers also in multiplexing.
 
 
 ### Server Push
