@@ -221,3 +221,9 @@ Updates lost through broken git...
 22/11/2023
 
 + Web cache poisoning
+
+21/01/2024
+
++ Worked on a lot of good ctf challenges, Took a lot of evaluations, Worked on a bi0s ctf challenges and testing them along with midterms for  the past two months
+
++ 
