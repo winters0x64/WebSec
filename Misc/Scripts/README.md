@@ -1,0 +1,1 @@
+## This folder contains the scripts that i made while learning web security or while doing ctfs.
