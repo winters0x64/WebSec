@@ -1,6 +1,1 @@
-Temp/
-ToDo/
-Scripts/
-Exploitation/XSS
-Exploitation/SQLi
-Exploitation/Websec
+.node-modules

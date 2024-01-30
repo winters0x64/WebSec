@@ -1,16 +1,9 @@
 # WebSec
 
-| Topics | Links | 
-| ------ | ----- |
-| Introduction | [Introduction](https://github.com/winters0x64/WebSec/tree/main/Introductory%20concepts) | 
-| Exploitation | [Exploitation](https://github.com/winters0x64/WebSec/tree/main/Exploitation) | 
-| General Concepts | [General Concepts](https://github.com/winters0x64/WebSec/tree/main/General) | 
-| PHP | [PHP](https://github.com/winters0x64/WebSec/tree/main/PHP) |
-
+All my notes taken while pwning the web.
 
 
 5r4LX3@95Z;27wk"g;fq6nN)Q7J3dL83 -> PortS In Codes
-one hackers - > arun0x168@bugs
-
+1h4ck3r5 In Codes - > arun0x168@bugs
 
 

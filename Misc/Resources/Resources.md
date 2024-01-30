@@ -20,3 +20,5 @@ https://xsleaks.dev/ -> Resource used to learn XS leaks
 https://hackmd.io/xeizBTh5Q1ieqGq-aqR89Q?view -> List of challs to learn Xsleaks.
 
 https://research.securitum.com -> An amazing website to learn different attacks, honestly its too good.
+
+https://curlconverter.com/ -> Convert any curl command to any language's syntax.

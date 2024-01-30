@@ -1,1 +1,0 @@
-## This folder contains the general concepts related to Web security.

@@ -1,0 +1,1 @@
+## This folder contains the general concepts unrelated to the web.
