@@ -228,5 +228,5 @@ Updates lost through broken git...
 
 + 29/01/2024
 
-+ Need to learn about some PHP indepth vulnerabbilities like session upload progress,filter chains,pear cmd etc
-+ Organize Websec Properly for easier navigation
++ Need to learn about some PHP indepth vulnerabbilities like session upload progress,filter chains,pear cmd etc.
++ Organize Websec Properly for easier navigation -> Done
