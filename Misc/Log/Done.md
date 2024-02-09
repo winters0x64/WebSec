@@ -224,20 +224,29 @@ Updates lost through broken git...
 
 21/01/2024
 
-+ Worked on a lot of good ctf challenges, Took a lot of evaluations, Worked on a bi0s ctf challenges and testing them along with midterms for  the past two months
++ Worked on a lot of good ctf challenges, Took a lot of evaluations, Worked on a bi0s ctf challenges and testing them along with midterms for  the past two months -> Done
 
 29/01/2024
 
-+ Need to learn about some PHP indepth vulnerabbilities like session upload progress,filter chains,pear cmd etc.
++ Need to learn about some PHP indepth vulnerabbilities like session upload progress,filter chains,pear cmd etc. 
 + Organize Websec Properly for easier navigation -> Done
 
 30/01/2024
 
-+ Learn regex and redos indepth.
++ Learn regex and redos indepth. -> Done
 
 
 5/02/2024
 
-+ Past few days i've been working on the bi0s ctf chall.
-+ Hacking poor implementation on the EPP protocol.
++ Past few days i've been working on the bi0s ctf chall. ->Done
++ Hacking poor implementation on the EPP protocol. -> Done
++ Learn regex and redos indepth. -> Done
 
+6/02/2024
+
++ Started reading about hacking automobiles using the web. -> Done
+
+9/02/2024
++ Gave some final touches to my challenge.
++ Read writeup for another csp dice ctf.
++ Learned about SSO.
