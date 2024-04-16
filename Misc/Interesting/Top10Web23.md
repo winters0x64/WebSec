@@ -8,9 +8,9 @@ CVE 2022-4908
 
 Same Origin VS Same Site
 
-https://example.com and https://www.example are not same origin since the subdomains are different, hence they are cross origin.(Subdomain also matters). Same origin would mean that the domain name would be same, same protocol and same port as well.
+https://example.com and https://www.example.com are not same origin since the subdomains are different, hence they are cross origin.(Subdomain also matters). Same origin would mean that the domain name would be same, same protocol and same port as well.
 
-But inorder for something to be samesite on the other side means the protocol and the tld or the etld(extended top level domain) should be same. So https://example.com:1234 and https://example.com:1111 are diffrent origins but is the same origin.
+But inorder for something to be samesite on the other side means the protocol and the tld or the etld(extended top level domain) should be same. So https://example.com:1234 and https://example.com:1111 are diffrent origins but is the samesite.
 
 etlds case is a bit different when it comes to samesite essentially, example1.com and example2.com are different cross sites and cross origin similarily site1.gitlab.io and site2.gitlab.io here etld is gitlab.io
 
@@ -38,3 +38,9 @@ Registrars communicate with the corresponding Registers to update the domains th
 ### What i learned from this?
 
 Java still strong, practical side of XXE.
+
+
+## 2) Cookies In Crumbles(Later)
+
+
+## 3) 

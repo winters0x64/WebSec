@@ -33,8 +33,10 @@ Oauth provides authorization to third party apps to user accounts without giving
 
 - Oauth is mainly used for authorization and not for authentication.
 - SAML is mainly used for authentication and not for authorization.
+
 - Oauth is mainly used for third party apps to access user accounts.
 - SAML is mainly used for single sign on.
+
 - Oauth is token based(access token).
 - SAML is XML based(Saml assertion).
 

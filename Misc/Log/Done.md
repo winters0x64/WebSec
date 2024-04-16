@@ -247,7 +247,15 @@ Updates lost through broken git...
 + Started reading about hacking automobiles using the web. -> Done
 
 9/02/2024
-+ Gave some final touches to my challenge.
-+ Read writeup for another csp dice ctf.
-+ Learned about SSO.
++ Gave some final touches to my challenge. -> Done
++ Read writeup for another csp dice ctf. -> Done
++ Learned about SSO. -> Done
 
+16/02/2024 and the pas few days
+
++ Tested AUMS -> Done
++ Learned more about SAML and OAuth -> Done
+
+19/02/2024
+
++ Upsolve quickstyle 
